@@ -11,7 +11,7 @@ const NavigationBar = () => {
       <nav>
         <ul className="menu">
           <li className="menu-item">Home</li>
-          <li className="menu-item">About dereba</li>
+          <li className="menu-item">About</li>
           <li className="menu-item">Services</li>
           <li className="menu-item">Sign Up</li>
         </ul>
