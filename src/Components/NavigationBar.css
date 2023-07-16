@@ -1,0 +1,43 @@
+.menu {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    background-color: #f2f2f2;
+    padding: 0;
+  }
+  
+  .menu-item {
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  .menu-item:hover {
+    background-color: #ddd;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+  }
+  
+  .logo-image {
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+  }
+  
+  .logo-text {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  /* Rest of the CSS styles for the menu class and menu-item class */
+  
